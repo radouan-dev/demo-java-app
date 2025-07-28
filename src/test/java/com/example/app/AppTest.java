@@ -17,4 +17,9 @@ public class AppTest
     {
         assertTrue( true );
     }
+
+    @Test
+    public void testFailExample() {
+        assertEquals("expected value", "actual value");
+    }
 }
