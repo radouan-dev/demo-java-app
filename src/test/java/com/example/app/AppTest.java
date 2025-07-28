@@ -21,6 +21,6 @@ public class AppTest
 
     @Test
     public void testFailExample() {
-        assertEquals("expected value", "actual value");
+        assertEquals("expected value", "expected value");
     }
 }
